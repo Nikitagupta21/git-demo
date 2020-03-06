@@ -3,7 +3,9 @@
 using namespace std; 
   
 int main() 
+<<<<<<< HEAD
 { //change in master branch
+
         // stack container declaration 
     stack<int> mystack1; 
     stack<int> mystack2; 
