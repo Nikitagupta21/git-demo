@@ -1,7 +1,7 @@
 #include<stdio.h>
 #include<conio.h>
 #include<string.h>
-int main()
+int main()//change in remote server
 {
 	int  n,i;
 	scanf("%d",&n);
